@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+section{
+  padding: 40px 90px;
+}
+
+@media (max-width:400px){
+  section{
+    padding: 40px 50px;
+  }
+}
