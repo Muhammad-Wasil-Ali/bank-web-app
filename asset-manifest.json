@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/bank-web-app/static/css/main.d6dd87f3.css",
-    "main.js": "/bank-web-app/static/js/main.4f2f7630.js",
+    "main.css": "/bank-web-app/static/css/main.78b20540.css",
+    "main.js": "/bank-web-app/static/js/main.d1bfb2a0.js",
     "static/js/787.106db3e6.chunk.js": "/bank-web-app/static/js/787.106db3e6.chunk.js",
     "static/media/home3.png": "/bank-web-app/static/media/home3.c24914c7f06f755d5d5b.png",
     "static/media/Home2.jpg": "/bank-web-app/static/media/Home2.b462ec27cd3e5fcbef32.jpg",
     "static/media/home1.jpg": "/bank-web-app/static/media/home1.f79c6754c260c2221660.jpg",
+    "static/media/dollar.jpg": "/bank-web-app/static/media/dollar.9810c7177d969987b48a.jpg",
+    "static/media/pound.jpg": "/bank-web-app/static/media/pound.e2c6a46d8185223c39f6.jpg",
     "static/media/way1.avif": "/bank-web-app/static/media/way1.06b35aa235ccd163b22d.avif",
+    "static/media/rs.jpg": "/bank-web-app/static/media/rs.6d6c6045d904c0e42475.jpg",
+    "static/media/euro.jpg": "/bank-web-app/static/media/euro.7be1a870fb6cfcd34869.jpg",
     "static/media/account2.jpg": "/bank-web-app/static/media/account2.8d8c5483da12466b2aea.jpg",
     "index.html": "/bank-web-app/index.html",
-    "main.d6dd87f3.css.map": "/bank-web-app/static/css/main.d6dd87f3.css.map",
-    "main.4f2f7630.js.map": "/bank-web-app/static/js/main.4f2f7630.js.map",
+    "main.78b20540.css.map": "/bank-web-app/static/css/main.78b20540.css.map",
+    "main.d1bfb2a0.js.map": "/bank-web-app/static/js/main.d1bfb2a0.js.map",
     "787.106db3e6.chunk.js.map": "/bank-web-app/static/js/787.106db3e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6dd87f3.css",
-    "static/js/main.4f2f7630.js"
+    "static/css/main.78b20540.css",
+    "static/js/main.d1bfb2a0.js"
   ]
 }
